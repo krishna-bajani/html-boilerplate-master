@@ -1,2 +1,3 @@
 # html-boilerplate-master
-Basic structure for html 
+Basic structure for HTML
+
